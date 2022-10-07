@@ -1,0 +1,24 @@
+header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+a {    color: #000000;
+    text-decoration: none;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+
+em {font-size: small;
+    color: rgb(226, 196, 151);
+}
+
+header {
+    background-image: url("cpnt260-a4/grass.jpg");
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position: center;
+    background-blend-mode: color-burn;
+}
